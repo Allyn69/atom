@@ -1,0 +1,8 @@
+https://drive.google.com/file/d/1rYkNF6_NteZlLqvG67GASLGWSdvGqZjs/view?usp=drivesdk
+
+◯ https://acrobat.adobe.com/link/documents/files/
+◯ Find Kilee Watson> extract all relevant data (Today)
+◯ Write-The-Verge/autocomplete-tasks_
+◯ extract (Fri, Feb 25)
+   ◦ [Callback] centralManager(central, didDiscover: peripheral, advertisementData: ["kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataTimestamp": 667720698.781327, "kCBAdvDataIsConnectable": 1, "kCBAdvDataServiceUUIDs": <__NSArrayM 0x281084e10>( FEB8 ) , "kCBAdvDataR
+◯ Add Jenkins
